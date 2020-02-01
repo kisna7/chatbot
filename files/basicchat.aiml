@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+      <pattern>* flood crisis *</pattern>
+      <template>
+       ok.dont worry.food will be available soon.
+      </template>
+    </category>
+    <category>
+      <pattern>* flood crisis *</pattern>
+      <template>
+       ok.dont worry.food will be available soon.
+      </template>
+    </category>
+    <category>
+    	<pattern>* victims *</pattern>
+    	<template>
+    	</template>
+    </category>
+        <category>
+    	<pattern>* flood victims *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+        <category>
+    	<pattern>* flood *</pattern>
+    	<template>
+    	</template>
+    </category>
+    <category>
+    	<pattern>* flood waters *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* dead floods *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* explosion *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* rescue women *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* tornado relief *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* Anxiety *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* confirmed dead *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* flood emergency *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* hundreds injured *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* Doctors *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+    <category>
+    	<pattern>* *</pattern>
+    	<template>
+    	</template>
+    </category>
+
+</aiml>

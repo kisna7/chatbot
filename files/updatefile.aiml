@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+        <pattern>UPDATE AMOUNT OF MALE CHILDREN CLOTHING</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF MALE CHILDREN CLOTHING?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF MALE CHILDREN CLOTHING</that>
+        <template>
+            AMOUNT OF MALE CHILDREN CLOTHING REQUIRE?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF MALE CHILDREN CLOTHING</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE AMOUNT OF FEMALE CHILDREN CLOTHING</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF FEMALE CHILDREN
+      CLOTHING?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF FEMALE CHILDREN CLOTHING</that>
+        <template>
+            AMOUNT OF FEMALE CHILDREN CLOTHING REQUIRE?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF FEMALE CHILDREN CLOTHING</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern>UPDATE AMOUNT OF ADULT MALE CLOTHING</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF ADULT MALE CLOTHING?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF ADULT  MALE CLOTHING</that>
+        <template>
+            AMOUNT OF MALE ADULT CLOTHING REQUIRE?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF ADULT MALE CLOTHING</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern>UPDATE AMOUNT OF ADULT FEMALE CLOTHING</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF ADULT FEMALE CLOTHING?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF ADULT FEMALE CLOTHING</that>
+        <template>
+            AMOUNT OF FEMALE ADULT CLOTHING REQUIRE?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF ADULT FEMALE CLOTHING</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern>UPDATE AMOUNT OF OLD MALE CLOTHING</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF OLD MALE CLOTHING?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF OLD MALE CLOTHING</that>
+        <template>
+            AMOUNT OF OLD MALE CLOTHING REQUIRE?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF OLD MALE CLOTHING</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE AMOUNT OF OLD FEMALE CLOTHING</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF OLD FEMALE CLOTHING?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF OLD FEMALE CLOTHING</that>
+        <template>
+            AMOUNT OF OLD FEMALE CLOTHING REQUIRE?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF OLD FEMALE CLOTHING</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE AMOUNT OF RICE</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF RICE?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF RICE</that>
+        <template>
+            AMOUNT OF RICE YOU NEED?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF RICE</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+    
+    <category>
+        <pattern>UPDATE AMOUNT OF WHEAT</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF WHEAT?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF WHEAT</that>
+        <template>
+            AMOUNT OF WHEAT NEEDED?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF WHEAT</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE AMOUNT OF BREAD</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF BREAD?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF BREAD</that>
+        <template>
+            AMOUNT OF BREAD NEEDED?
+        </template>
+    </category>
+    
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF BREAD</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE AMOUNT OF MILK</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF MILK?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF MILK</that>
+        <template>
+            AMOUNT OF MILK YOU NEED?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF MILK</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE AMOUNT OF CERELAC</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF CERELAC?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF CERELAC</that>
+        <template>
+            AMOUNT OF CERELAC YOU NEED?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF CERELAC</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE AMOUNT OF CATTLE FOOD</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF CATTLE FOOD?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF CATTLE FOOD</that>
+        <template>
+            DO YOU NEED CATTLE FOOD?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF CATTLE FOOD</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE ADDRESS OF NEAREST BUILDING</pattern>
+        <template>
+            DO YOU WANT TO UPDATE ADDRESS OF NEAREST BUILDING?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE ADDRESS OF NEAREST BUILDING</that>
+        <template>
+            TELL ME ADDRESS OF NEAREST BUILDING?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE ADDRESS OF NEAREST BUILDING</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE AMOUNT OF DRINKING WATER</pattern>
+        <template>
+            DO YOU WANT TO UPDATE AMOUNT OF DRINKING WATER?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF DRINKING WATER</that>
+        <template>
+            AMOUNT OF DRINKING WATER YOU NEED?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE AMOUNT OF DRINKING WATER</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE REQUIREMENT OF SANITARY MATERIAL</pattern>
+        <template>
+            DO YOU WANT TO UPDATE REQUIREMENT OF SANITARY MATERIAL?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE REQUIREMENT OF SANITARY MATERIAL</that>
+        <template>
+            REQUIREMENT OF SANITARY MATERIAL YES OR NO?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE REQUIREMENT OF SANITARY MATERIAL</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE REQUIREMENT OF SPRIER</pattern>
+        <template>
+            DO YOU WANT TO UPDATE REQUIREMENT OF SPRIER?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE REQUIREMENT OF SPRIER</that>
+        <template>
+            DO YOU NEED SPRIER?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE REQUIREMENT OF SPRIER</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE REQUIREMENT OF MEDICAL STAFF</pattern>
+        <template>
+            DO YOU WANT TO UPDATE REQUIREMENT OF MEDICAL STAFF?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE REQUIREMENT OF MEDICAL STAFF</that>
+        <template>
+            DOCTOR, NURSE OR ANY OTHER MEDICAL STAFF YOU NEED?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE REQUIREMENT OF MEDICAL STAFF</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE REQUIREMENT OF MEDICAL EQUIPMENT</pattern>
+        <template>
+            DO YOU WANT TO UPDATE REQUIREMENT OF MEDICAL EQUIPMENT?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE REQUIREMENT OF MEDICAL EQUIPMENT</that>
+        <template>
+            WHAT ARE THE MEDICAL EQUIPMENTS YOU NEED?
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE REQUIREMENT OF MEDICAL EQUIPMENT</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>UPDATE REQUIREMENT OF MEDICAL AMBULANCE</pattern>
+        <template>
+            DO YOU WANT TO UPDATE REQUIREMENT OF MEDICAL AMBULANCE?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>DO YOU WANT TO UPDATE REQUIREMENT OF MEDICAL AMBULANCE</that>
+        <template>
+            DO YOU NEED AMBULANCE?
+        </template>
+    </category>
+    <!-- <category>
+        <pattern>NO</pattern>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category> -->
+    <category>
+        <pattern>NO</pattern>
+        <that>DO YOU WANT TO UPDATE REQUIREMENT OF MEDICAL AMBULANCE</that>
+        <template><srai>WHEN ANSWER IS NO</srai></template>
+    </category>
+
+    <category>
+        <pattern>WHEN ANSWER IS NO</pattern>
+        <template>
+            Ok.Thank you.
+        </template>
+    </category>
+
+</aiml>
